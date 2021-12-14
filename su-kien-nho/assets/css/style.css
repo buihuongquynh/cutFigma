@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+}
+
+input {
+    outline: none;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.bg-black {
+    background-color: #121212;
+}
+
+
+/* =======header========== */
+
+.header {
+    background-color: #000;
+    padding: 20px 0;
+}
+
+.header .logo i {
+    color: #fff;
+    margin-right: 5px;
+}
+
+.header .logo img {
+    height: 50px;
+}
+
+.header .navbar-light .navbar-nav .nav-link {
+    color: #fff;
+    padding: 10px 20px;
+    font-weight: 300;
+}
+
+.header .navbar-light .navbar-nav .nav-link:hover {
+    color: #cec7c7;
+}
+
+
+/* ===========end-header============== */
+
+
+/* ================footer========== */
+
+.footer {
+    padding: 6em 0;
+    background-color: #000;
+}
+
+.footer img {
+    height: 50px;
+    margin-bottom: 50px;
+}
+
+.footer h2 {
+    color: #fff;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 550;
+    margin-bottom: 30px;
+}
+
+.footer ul li {
+    color: #fff;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+
+.footer .contact i {
+    color: #fff;
+    padding: 0 15px;
+    font-size: 25px;
+}
+
+
+/* ================end-footer========== */

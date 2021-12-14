@@ -1,0 +1,49 @@
+/* ==========banner============ */
+
+.banner img {
+    width: 100%;
+}
+
+
+/* ==========end-banner============= */
+
+
+/* ======introduction======== */
+
+.introduction {
+    padding: 6rem 0;
+}
+
+.introduction h2 {
+    margin-bottom: 40px;
+    font-size: 48px;
+    font-weight: 550;
+    font-family: 'Lora', serif;
+}
+
+.introduction h4 {
+    margin-bottom: 30px;
+}
+
+.introduction .introduction-text p {
+    font-size: 18px;
+}
+
+.introduction img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.introduction span {
+    font-size: 12px;
+}
+
+
+/* ========end-introduction=========== */
+
+.line {
+    background-color: #606060;
+    height: 1px;
+    width: 1000px;
+    margin-left: 60px;
+}
